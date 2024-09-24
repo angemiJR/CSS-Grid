@@ -1,5 +1,6 @@
 body {
     height: 100vh;
+    margin: 0;
 }
 
 .container{
@@ -60,4 +61,22 @@ body {
     background-color: #3effcf;
     grid-row: 7/11;
     grid-column: 5/6;
+}
+
+.nineth{
+    background-color: #115c49;
+    grid-row: 1/3;
+    grid-column: 4/6;
+}
+
+.tenth{
+    background-color: #115c49;
+    grid-row: 3/5;
+    grid-column: 4/6;
+}
+
+.eleventh{
+    background-color: #115c49;
+    grid-row: 5/7;
+    grid-column: 4/6;
 }
