@@ -50,3 +50,14 @@ body {
     grid-row: 9/11;
     grid-column: 2/3;
 }
+.seventh {
+    background-color: #176b56;
+    grid-row: 7/11;
+    grid-column: 3/5;
+}
+
+.eight{
+    background-color: #3effcf;
+    grid-row: 7/11;
+    grid-column: 5/6;
+}
